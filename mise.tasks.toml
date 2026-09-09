@@ -1,0 +1,5 @@
+#:schema https://mise.jdx.dev/schema/mise-task.json
+
+[lint-md]
+description = 'Lint markdown files'
+run = 'npx markdownlint-cli2 "**/*.md" "#node_modules"'

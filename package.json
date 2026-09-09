@@ -1,0 +1,16 @@
+{
+  "name": "@sergei-dyshel/markdownlint-config",
+  "version": "1.0.0",
+  "description": "Shared Markdownlint config",
+  "main": "markdownlint.jsonc",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergei-dyshel/markdownlint-config.git"
+  },
+  "author": "Sergei Dyshel",
+  "license": "MIT",
+  "homepage": "https://github.com/sergei-dyshel/markdownlint-config",
+  "devDependencies": {
+    "markdownlint-cli2": "^0.23.2"
+  }
+}

@@ -10,7 +10,9 @@
   "author": "Sergei Dyshel",
   "license": "MIT",
   "homepage": "https://github.com/sergei-dyshel/markdownlint-config",
+  "prettier": "@sergei-dyshel/prettier-config",
   "devDependencies": {
+    "@sergei-dyshel/prettier-config": "*",
     "markdownlint-cli2": "^0.23.2"
   }
 }
